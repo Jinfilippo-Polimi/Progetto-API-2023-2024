@@ -2,7 +2,7 @@
 Il progetto di Algoritmi e Strutture Dati è un progetto di programmazione assegnato agli studenti del corso di Algoritmi e Principi dell'Informatica (API) del Politecnico di Milano.  
 Il corso di API si segue di norma durante il secondo semestre del secondo anno di Laurea Triennale di Ingengneria Informatica.  
 Il progetto viene assegnato al termine di tale corso, a Maggio/Giugno, da svolgere durante l'estate e consegnare entro i primi giorni di Settembre.  
-Esso ha un valore di 1 CFU.  
+Ha un peso di 1 CFU.
 
 # Descrizione del progetto A.A. 2023/2024
 Il progetto richiede l'utilizzo esclusivo del linguaggio C11 (ISO/IEC 9899:2011). Inoltre è permesso solo l'utilizzo della "C Standard Library", che contiene le seguenti librerie:
@@ -63,6 +63,3 @@ Timeline del mio progetto, con allegato i vari programmi con cui ho superato per
 * Valgrind suite
 * GDB (GNU debugger) su Ubuntu
 * LLDB debugger su MacOS
-
-La pagina è incompleta.  
-I file con i codici sorgente e la pagina saranno aggiornati una volta terminato il periodo di consegna e valutazione della prova per evitare casi di plagio (Febbraio 2025).
